@@ -3,9 +3,9 @@
 <h3 align="center">A first year student developper</h3>
 <br>
 
-- 🔭 I’m currently working on **my website** [TRUST THE PROCRESS](https://luu.lucas-astley.live/) - Thanks Lucas for carrying my back !
+- 🔭 I’m currently working on **my website** [right here]([https://luu.lucas-astley.live/](https://xluuxx.github.io/))
 
-- 🌱 I’m currently learning **Go, HTML, CSS, JS, Java at Toulouse Ynov Campus**
+- 🌱 I’m currently learning **Go, HTML, CSS, JS & Java at Toulouse Ynov Campus**
 
 - 📝 I used to regularly write articles on [https://luuwriting.blogspot.com/](https://luuwriting.blogspot.com/)
 
