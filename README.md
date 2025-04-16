@@ -3,7 +3,7 @@
 <h3 align="center">A first year student developper</h3>
 <br>
 
-- 🔭 I’m currently working on **my website** [right here]([https://luu.lucas-astley.live/](https://xluuxx.github.io/))
+- 🔭 I’m currently working on [**my website**](https://xluuxx.github.io/)
 
 - 🌱 I’m currently learning **Go, HTML, CSS, JS & Java at Toulouse Ynov Campus**
 
